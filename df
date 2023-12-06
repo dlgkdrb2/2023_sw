@@ -1,0 +1,569 @@
+[33mcommit 90776b01d5f2da32e8f7d89381ad1a519ba63abd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dlgkdrb2 <dlgkdrb2@asdf.myguest.virtualbox.org>
+Date:   Tue Dec 5 16:33:08 2023 +0900
+
+    INIT: init
+
+[33mcommit 1b285c610e170726141ae916961fad0f76f14f6d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ee3e964 577ce53
+Author: Maria S <48929345+xxxwarrior@users.noreply.github.com>
+Date:   Thu Nov 18 13:27:03 2021 +0300
+
+    Merge pull request #3 from xxxwarrior/dependabot/pip/babel-2.9.1
+    
+    Bump babel from 2.8.0 to 2.9.1
+
+[33mcommit 577ce53198b10fbcb9ebebf60e2c6f94fac0d617[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Oct 21 18:47:35 2021 +0000
+
+    Bump babel from 2.8.0 to 2.9.1
+    
+    Bumps [babel](https://github.com/python-babel/babel) from 2.8.0 to 2.9.1.
+    - [Release notes](https://github.com/python-babel/babel/releases)
+    - [Changelog](https://github.com/python-babel/babel/blob/master/CHANGES)
+    - [Commits](https://github.com/python-babel/babel/compare/v2.8.0...v2.9.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: babel
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ee3e964626ffbf63b1f8a8dc2cde6f2a1817e25a[m
+Merge: 599d611 9fcdcd3
+Author: Maria S <48929345+xxxwarrior@users.noreply.github.com>
+Date:   Tue Aug 10 15:10:16 2021 +0300
+
+    Merge pull request #2 from xxxwarrior/dependabot/pip/pygments-2.7.4
+    
+    Bump pygments from 2.6.1 to 2.7.4
+
+[33mcommit 599d611951b8d8ab5542f8ceb527145077449d40[m
+Merge: 189135e 7832387
+Author: Maria S <48929345+xxxwarrior@users.noreply.github.com>
+Date:   Tue Aug 10 15:09:58 2021 +0300
+
+    Merge pull request #1 from xxxwarrior/dependabot/pip/jinja2-2.11.3
+    
+    Bump jinja2 from 2.11.2 to 2.11.3
+
+[33mcommit 9fcdcd329458d19955a979438345345c3001336c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 30 02:43:09 2021 +0000
+
+    Bump pygments from 2.6.1 to 2.7.4
+    
+    Bumps [pygments](https://github.com/pygments/pygments) from 2.6.1 to 2.7.4.
+    - [Release notes](https://github.com/pygments/pygments/releases)
+    - [Changelog](https://github.com/pygments/pygments/blob/master/CHANGES)
+    - [Commits](https://github.com/pygments/pygments/compare/2.6.1...2.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 78323877fa18aa4c095f72b0112a9f58e63b4a9a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Mar 20 05:40:47 2021 +0000
+
+    Bump jinja2 from 2.11.2 to 2.11.3
+    
+    Bumps [jinja2](https://github.com/pallets/jinja) from 2.11.2 to 2.11.3.
+    - [Release notes](https://github.com/pallets/jinja/releases)
+    - [Changelog](https://github.com/pallets/jinja/blob/master/CHANGES.rst)
+    - [Commits](https://github.com/pallets/jinja/compare/2.11.2...2.11.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 189135ef9456ed5ce57952a6775e3bd6944b9dc6[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Jan 17 19:14:32 2021 +0300
+
+    Delete unnecessary prints
+
+[33mcommit dad1f0e5f2e2f179838e8efd7f4023a76bbeda86[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Jan 17 18:00:18 2021 +0300
+
+    Add README.md
+
+[33mcommit b8538e169b26ee32aa183e63e0235583f7f120ff[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Jan 16 21:08:44 2021 +0300
+
+    DB_URI as env var
+
+[33mcommit ced23b92edb23e608a493cb915c32059fbb21090[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 22:13:18 2021 +0300
+
+    Delete some uploads
+
+[33mcommit 6f032459d009a59dfb0c348abb572a63123a628f[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:34:43 2021 +0300
+
+    Style and typo fixes
+
+[33mcommit 578ca533be224e67beb435bc9fb5757745c8b15d[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:34:06 2021 +0300
+
+    Seed database with initial data
+
+[33mcommit e8aa26c0c0f16d41bbfbfc92252b2d5733a191d9[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:32:48 2021 +0300
+
+    Docker wrap
+
+[33mcommit 106cc752f69e2b483331bb6bb3eee624acd69330[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:28:24 2021 +0300
+
+    Add pytest
+
+[33mcommit 4432e7cdf7c301f78bed6e68a6976e3d7d588e71[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:26:54 2021 +0300
+
+    Let any authenticated user create posts
+
+[33mcommit a36a49c8c8a60d9ad224404f94063cc9c40330b0[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:25:12 2021 +0300
+
+    Don't render hidden fields
+
+[33mcommit b7e7e74c822992fa85910c6bac4be7b7d116ac0b[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:21:54 2021 +0300
+
+    Delete unnecessary func
+
+[33mcommit 4c4d552c61125c5d169f758631502f98f2d71adb[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jan 15 21:19:33 2021 +0300
+
+    Flash messages as a dict
+
+[33mcommit dafd939ec746836cccce6e4e75a44d7b6569a15c[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Sep 20 12:40:33 2020 +0300
+
+    Delete unnecessary
+
+[33mcommit 9b0d0ea95d28c0d7866282ff7ec81567859036a7[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Sep 20 12:40:08 2020 +0300
+
+    Debug=false for testconfig
+
+[33mcommit 8dc8355c264dda0f11173a174fd38f1a0373fcd9[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Sep 20 12:36:28 2020 +0300
+
+    Dict of flash messages
+
+[33mcommit 86b19646bb3c9e00a1809266e86992e68a970087[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Sep 20 12:35:14 2020 +0300
+
+    Get rid of bcrypt class, check and hash pass as User cls methods
+
+[33mcommit 160daaec2b6a8d9033c057e9920ec9811a1dd0e1[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Sep 20 12:24:01 2020 +0300
+
+    Duplicate registration test
+
+[33mcommit e6de7ba771ae73baf8b31d260e83830d0e2c1e65[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Sep 18 17:43:42 2020 +0300
+
+    App tests
+
+[33mcommit 6f9cd4541ae9793619d5f7cc685e41f7b276699f[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Sep 14 23:34:51 2020 +0300
+
+    Change of the app structure, factory func added, directories as packages
+
+[33mcommit 1875d3e24bd5d4394f89453de62c31d9b9818d1a[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Sep 14 23:16:31 2020 +0300
+
+    Add testing config
+
+[33mcommit 7b2418fb1c1d63621244add894b06be249896b34[m
+Merge: f06545c 5f85111
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Thu Sep 3 20:40:28 2020 +0300
+
+    Merge branch 'Comments' into master
+    
+    * Comments:
+      Slight changes of naming, remove unnecessary print statements
+      Comments section
+      Delete comments and slight naming corrections
+      Config using .env file
+      Slight housekeeping
+      Comments displaying in html
+      Custom styles for some elements
+      Slight housekeeping
+      Comment Form
+      Comment form when displaing a post
+      Comment Document + date format without seconds
+
+[33mcommit f06545cc8cf5fa58533b3bac1fea22b57d8d7693[m
+Merge: 0c6bb72 3fe8a4a
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Thu Sep 3 20:35:09 2020 +0300
+
+    Merge branch 'authorization_change' into master
+    
+    * authorization_change:
+      Change picture displaying
+      Delete unnecessary styles
+      Picture from post
+      Fix typo
+      Logout button
+      Logout button
+      Fix a bug of unathorized users access
+      Posts are displayed as horiontal list groups
+      Change index view to display posts as rows
+      Initial branch commit
+      Move login and registration templates to a custom direction
+      LoginForm and RegisterForm move to a separate file
+      Moving custom login, logout, register views to a separate file
+
+[33mcommit 5f85111e386c876252522243522a617526aba693[m[33m ([m[1;31morigin/Comments[m[33m)[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Thu Sep 3 20:13:29 2020 +0300
+
+    Slight changes of naming, remove unnecessary print statements
+
+[33mcommit e94e7b59f06008c628985ae839d015b6f5e22fb1[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Thu Sep 3 20:12:08 2020 +0300
+
+    Comments section
+
+[33mcommit 1b31d66ea1b3a60caa40dc4bf91562aa5c8ee8d0[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Aug 28 02:50:42 2020 +0300
+
+    Delete comments and slight naming corrections
+
+[33mcommit c336df02188ac5b70cf7070603308d483bb0c254[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Aug 28 02:49:37 2020 +0300
+
+    Config using .env file
+
+[33mcommit ee29d548e986ae8686e8d6ab318ce8eec465e696[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 01:02:59 2020 +0300
+
+    Slight housekeeping
+
+[33mcommit 66185210e289c33ed223999d460b11f299970235[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 01:01:49 2020 +0300
+
+    Comments displaying in html
+
+[33mcommit 754c27f902ef8fee1cd2947cf681ddd2bfeba7d6[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 01:01:22 2020 +0300
+
+    Custom styles for some elements
+
+[33mcommit 1af40f0b2c529bea88c58b03b567897921acbeb0[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 00:49:27 2020 +0300
+
+    Slight housekeeping
+
+[33mcommit b32673a0c930a46aa76fa5dc59650dc9d7c88a70[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 00:47:28 2020 +0300
+
+    Comment Form
+
+[33mcommit 4c4d85c99b30f1d4b21328a93cd390b6212a6fb7[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 00:46:46 2020 +0300
+
+    Comment form when displaing a post
+
+[33mcommit 02e27e662330a673c6cbc938cd520670376e5385[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 26 00:41:30 2020 +0300
+
+    Comment Document + date format without seconds
+
+[33mcommit 0c6bb726a48b09b905961baa832dc621db4f9e24[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 24 14:37:11 2020 +0300
+
+    Change session managing and deprecate security ext
+
+[33mcommit 98d84d61bfd0028e03db9c650de2abb3b625f0e8[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:19:03 2020 +0300
+
+    Logout button
+
+[33mcommit 3fe8a4a03cffa6ccd08983f574dbb17c91b0039c[m[33m ([m[1;31morigin/authorization_change[m[33m)[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 24 02:20:09 2020 +0300
+
+    Change picture displaying
+
+[33mcommit dae95e0a9f3f1e03cffd98a7b50fd7110db26bfe[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 24 02:19:27 2020 +0300
+
+    Delete unnecessary styles
+
+[33mcommit 6d0ca4fed829d7cb1f0b4338a9211a0013b94bf4[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 24 02:18:35 2020 +0300
+
+    Picture from post
+
+[33mcommit bb69d9465610ed4b84bf587d0980d70559cba550[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 24 02:17:59 2020 +0300
+
+    Fix typo
+
+[33mcommit 7771735a2aa7f8fe951e55fc920208b5c5006cdb[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:19:03 2020 +0300
+
+    Logout button
+
+[33mcommit 6aa9d45ba04328426b7741d2c0f6e5777ef1ddb5[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:19:03 2020 +0300
+
+    Logout button
+
+[33mcommit 949459b07c571452b8435689f30c236f447c248b[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:18:30 2020 +0300
+
+    Fix a bug of unathorized users access
+
+[33mcommit 19987befed5ba137f1b2b21ab4f92907214748c9[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:16:45 2020 +0300
+
+    Posts are displayed as horiontal list groups
+
+[33mcommit 3c5d3adb83528f7f93adb3f3bb200e39d2bae871[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 23 20:12:14 2020 +0300
+
+    Change index view to display posts as rows
+
+[33mcommit 2edb19863bd50466d189ef5695b641ee8b63aee3[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 19 02:37:36 2020 +0300
+
+    Initial branch commit
+
+[33mcommit 3d55075f919ff6abe75475528302b7484d9fd726[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 19 02:36:13 2020 +0300
+
+    Move login and registration templates to a custom direction
+
+[33mcommit d8557038f1ff6053fed837f011d6d4466b27b34e[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 19 02:34:00 2020 +0300
+
+    LoginForm and RegisterForm move to a separate file
+
+[33mcommit a48caa4031a0c8ce7f380f1011782288cd42270b[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Aug 19 02:32:32 2020 +0300
+
+    Moving custom login, logout, register views to a separate file
+
+[33mcommit 0cc4f73e3bd7e71812f3963597444fce62094c69[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 17 20:57:03 2020 +0300
+
+    Slight housekeeping to imrove readability
+
+[33mcommit 8b66b145acfa49305c139a47f88722c2c2996be0[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 17 01:36:28 2020 +0300
+
+    is_active method for User
+
+[33mcommit 2c51ed8dc3422e98c6b6c75eb1add2fdb905882f[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 17 01:34:42 2020 +0300
+
+    Route to custom login and registration
+
+[33mcommit c75b26f51e9a0c143d66b666052708c4200da718[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 17 01:33:38 2020 +0300
+
+    Login, Logout, Registration implementation
+
+[33mcommit d078f5561d7961503848920c4139a0d71f5b76d5[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Mon Aug 17 01:31:57 2020 +0300
+
+    FlaskForm instead of wtform Form due to validate_on_submit
+
+[33mcommit 7973b575281a21eeb05f6a1f5f405a3cce09a7b0[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 16 01:04:26 2020 +0300
+
+    Registration template
+
+[33mcommit a3dd93ba35b62e9fdcbed926ef595ee1390c95ee[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 16 01:03:27 2020 +0300
+
+    Registration and Login forms
+
+[33mcommit 22846e8e182c6090d4050b55dfee99d918a25655[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 16 01:01:48 2020 +0300
+
+    Change search button
+
+[33mcommit b3c87548563b49888c6e1c13a8de00ed5658b6a6[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 16 01:00:58 2020 +0300
+
+    Centered titles
+
+[33mcommit 964bdd18674591bb061585899807833673bfd7a4[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 16 00:57:54 2020 +0300
+
+    Change the color, size and alignment of a button
+
+[33mcommit 511abf3fe6e7a31399f8c8e745f8b9f9dc7aa839[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 15 21:52:15 2020 +0300
+
+    Add requirements
+
+[33mcommit dc215ef246860b293cfe6661af3e0d21c389f784[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 15 21:51:22 2020 +0300
+
+    Exclude draft file
+
+[33mcommit e97fe6163a480732e49589d3575c32e4bd25d584[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 15 21:50:33 2020 +0300
+
+    Add security templates for registration and login
+
+[33mcommit 3dd1e2466cf64b6ab0039d1c476e38e81956eb28[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 15 21:44:55 2020 +0300
+
+    Login button for unauthorised users
+
+[33mcommit c27caf7e661deb2c43ee50f1057d80ab9a9908a1[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Aug 2 23:35:22 2020 +0300
+
+    Picture uploading and displaying
+
+[33mcommit a1b82acbd9f5e5991c221d6c3a35e0fcca037dca[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 1 22:31:55 2020 +0300
+
+    Access to post edition only for author or admin
+
+[33mcommit 63f110a7631a195615f3eed5327668cb6c8e1931[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 1 00:44:31 2020 +0300
+
+    Change of static folder
+
+[33mcommit 0e33fd64e7e66abd5cbb4f77949f04b9c01dd400[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 1 00:43:46 2020 +0300
+
+    Flash messages for editing and creating
+
+[33mcommit 1d3708f2586e2c646963fb388eeb06341f131804[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Aug 1 00:42:39 2020 +0300
+
+    Fix typo
+
+[33mcommit b2cbf78ec90e4a1212232024f1be297070467ce6[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Fri Jul 31 00:00:58 2020 +0300
+
+    Form and tags refactoring
+
+[33mcommit 778218af019596caa8f1f55c0f5f3d6f5cfc2ebd[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Tue Jul 28 23:37:44 2020 +0300
+
+    Improved tags input for editing and creating
+
+[33mcommit a3fa4fa8ce5e2a9f805a1d904a37f34a3b8d38eb[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Jul 22 02:01:53 2020 +0300
+
+    Slight corrections
+
+[33mcommit 961c92a5576ba428aa130030421f5e4b4b15e0d4[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Wed Jul 22 02:01:19 2020 +0300
+
+    Link User and Post
+
+[33mcommit b8f3d417ac7209cf9e7f0c07a6de65e6ad519b21[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Tue Jul 21 22:59:43 2020 +0300
+
+    Slight refactoring of html templates: add macro
+
+[33mcommit 12604ee0e64c9c9fab162917578de917bdc84caf[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Tue Jul 21 00:56:32 2020 +0300
+
+    Ignore __pycache__
+
+[33mcommit f096f115b78f2f8d6594156a16d1a4bed8e410aa[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Jul 19 21:41:49 2020 +0300
+
+    Search works on all pages
+
+[33mcommit 98380b4df9dbd2192b90d787a7c05db1d55cba90[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Jul 11 23:06:11 2020 +0300
+
+    Navbar fixes, edition in progress
+
+[33mcommit 3c6c40b9f014461c1a8bb0d4fae3a9f6a4656934[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sun Jun 28 00:55:46 2020 +0300
+
+    Change creating and editing using Post class
+
+[33mcommit 9b6b4855d72082d05d3426f8d812ec6eb3adfb46[m
+Author: xxxwarrior <sklmasha@yandex.ru>
+Date:   Sat Jun 27 21:19:04 2020 +0300
+
+    Initial commit

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Register
+{% endblock title %}
+
+{% block content_title %}
+  <h1 class='text-center'>Register</h1>
+{% endblock content_title %}
+
+{% block content %}
+  {% from 'posts/form_macro.html' import form_macro %}
+  <form method="post" action="{{ url_for('authorization.register') }}">
+    {{ form.hidden_tag() }}
+    {{ form_macro(form, btn_name='Register') }}
+  </form>
+{% endblock content %}

@@ -1,0 +1,22 @@
+{% macro form_macro(form, action, btn_name, tags="") -%}
+    <div class='col-md-6 container justify-content-center'>
+        <form action="{{ action }}" method="POST" enctype="multipart/form-data">
+            {{ form.hidden_tag() }}
+            {% for field in form if field.widget.input_type != 'hidden'%}
+                <div class="form-group">
+                    {{ field.label(class='control-label') }}
+                    {% if field.name == 'tags' %} 
+                        <input name="tags" type="text" data-role="tagsinput" value="{{ tags }}">
+                    {% elif field.name == 'picture' %}
+                        <input type="file" name="file">
+                    {% else %}
+                        {{ field(class='form-control') }}
+                    {% endif %}
+                </div>
+            {% endfor %}
+            <div class="col text-center">
+                <button type="submit" class="btn btn-info btn-lg"> {{ btn_name }} </button>
+            </div>
+        </form>
+    </div>
+{%- endmacro %}

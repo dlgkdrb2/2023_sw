@@ -1,0 +1,77 @@
+body {
+    padding-block-end: 50px;
+    background-size: cover;
+}
+h1 {
+    color: #ff0075;
+    text-align: start;
+}
+
+a {
+    color: #05508c;
+}
+
+nav-link {
+    color: rgba(50, 0, 202, 0.54);
+}
+
+.bg-im {
+}
+
+.light-bg {
+    background-color: #dce6f200;
+}
+.padding-25 {
+    padding: 25px;
+}
+.blue-border {
+    border-color: #05508c;
+}
+
+
+.blue-text {
+    color: #05508c;
+}
+.pink-text {
+    color: #ff0075;
+}
+.info-text {
+    color: #17a2b8;
+}
+.image {
+    text-align: center;
+}
+.post-img {
+    width: 44%;
+    align-self: center;
+}
+.icon {
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.page-link {
+    color: #05508c;
+}
+
+.media-body {
+    margin-top: 15px;
+}
+.post-el {
+    align-self: normal;
+    text-align-last: center;
+}
+
+.small-date {
+    font-size: 80%;
+    color: #55595d;
+}
+
+
+
+
